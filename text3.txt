@@ -7,6 +7,7 @@ awd
 wea
 d
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 ad
@@ -18,10 +19,16 @@ daw
 dawd
 >>>>>>> hotfix
 =======
+=======
+>>>>>>> branch2
 awdwadwadwadwad
 wdawdwadwadwadwadwadwadwadwad
 wdawdwadwadwadwadwadwadwadwadwad
 wdawdwadwadwadwadwadwadwadwaddaw
 dwadwadaw
+<<<<<<< HEAD
+dwadwaawd
+>>>>>>> branch2
+=======
 dwadwaawd
 >>>>>>> branch2
