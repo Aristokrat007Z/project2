@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 wdawdwadwadwadwad
 wdawdwadwadwadwadwad
 wdawdwadwadwadwadwadwad
@@ -5,3 +6,13 @@ wdawdwadwadwadwadwadwadwad
 awd
 wea
 d
+=======
+
+ad
+wad
+wadwad
+wadwadwad
+wadwaddwa
+daw
+dawd
+>>>>>>> hotfix
