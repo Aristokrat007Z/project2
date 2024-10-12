@@ -6,6 +6,7 @@ wdawdwadwadwadwadwadwadwad
 awd
 wea
 d
+<<<<<<< HEAD
 =======
 
 ad
@@ -16,3 +17,11 @@ wadwaddwa
 daw
 dawd
 >>>>>>> hotfix
+=======
+awdwadwadwadwad
+wdawdwadwadwadwadwadwadwadwad
+wdawdwadwadwadwadwadwadwadwadwad
+wdawdwadwadwadwadwadwadwadwaddaw
+dwadwadaw
+dwadwaawd
+>>>>>>> branch2
